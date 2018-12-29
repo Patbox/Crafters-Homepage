@@ -1,0 +1,3 @@
+﻿Letnia aktualizacja
+2018-07-03 12:02:17 PM
+<p>W końcu znalazłem czas, aby coś dodać na serwer. Oto co lista zmian:</p><p>&nbsp;</p><ul><li>Dodano noktowizor</li><li>Dodano Buty parkourowca&nbsp;</li><li>Naprawiono błędy z Zbieraczem spawner&oacute;w</li><li>Nowy sklep na serwerze</li><li>VIPy otrzymały nowe dodatki (kolory na tabliczkach oraz na chat)</li><li>Optymalizacja serwera</li><li>Dodano nagrody za przejście parkoura</li></ul><p>&nbsp;</p>
