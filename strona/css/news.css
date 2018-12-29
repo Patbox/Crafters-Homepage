@@ -1,0 +1,15 @@
+html,body {
+	background:none;
+}
+#copyright {
+	color:gray;
+	font-size:0.7em;
+	font-family:arial;
+	float:right;
+}
+hr {
+	background-color:grey;
+}
+#main {
+	height: auto;
+}
