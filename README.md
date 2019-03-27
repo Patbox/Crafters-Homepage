@@ -6,4 +6,4 @@ Kontakt:
 
   Discord: Patbox#4687
   
-  Forum (zalecane): [https://patbox.pl](https://patbox.pl)
+  Forum (zalecane): [https://patbox.ml](https://patbox.ml)
